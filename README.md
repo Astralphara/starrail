@@ -1,0 +1,2 @@
+# starrail
+python-pandas
